@@ -1,0 +1,7 @@
+Executable : /home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/tuo/Workspace/android_ncnn/step1/board-game-scorer-for-android/app/.cxx/Debug/6z35x5l4/arm64-v8a
+ncnnyolox
+jvmArgs : 
+

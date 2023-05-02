@@ -1,0 +1,6 @@
+# ninja log v5
+1	1266	1683026964	CMakeFiles/ncnnyolox.dir/ndkcamera.cpp.o	a8ab6de4f08fc0cd
+0	1673	1683026965	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	74a7ae07cf3ee2e0
+1	2036	1683026965	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	98a493bd4c987a12
+1	2653	1683026966	CMakeFiles/ncnnyolox.dir/line2Dup.cpp.o	5ac8792ac8f35e30
+2654	3604	1683026967	/home/tuo/Workspace/android_ncnn/step1/board-game-scorer-for-android/app/build/intermediates/cxx/Debug/6z35x5l4/obj/arm64-v8a/libncnnyolox.so	d5b2c306858ede3d

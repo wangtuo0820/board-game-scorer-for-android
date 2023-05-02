@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/Debug/68p6r2bo/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/ncnnyolox.dir/yolox.cpp.o
+[2/2] Linking CXX shared library /home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cxx/Debug/68p6r2bo/obj/arm64-v8a/libncnnyolox.so

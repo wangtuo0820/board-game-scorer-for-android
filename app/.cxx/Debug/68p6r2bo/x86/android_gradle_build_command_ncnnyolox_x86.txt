@@ -1,0 +1,7 @@
+Executable : /home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/Debug/68p6r2bo/x86
+ncnnyolox
+jvmArgs : 
+

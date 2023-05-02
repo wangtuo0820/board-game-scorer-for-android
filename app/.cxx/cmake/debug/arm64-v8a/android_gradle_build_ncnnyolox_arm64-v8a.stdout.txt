@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a'
+ninja: no work to do.

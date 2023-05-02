@@ -1,0 +1,23 @@
+                    Executable : /home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=/home/tuo/Android/Sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/home/tuo/Android/Sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/home/tuo/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cxx/Debug/68p6r2bo/obj/x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cxx/Debug/68p6r2bo/obj/x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/Debug/68p6r2bo/x86_64
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

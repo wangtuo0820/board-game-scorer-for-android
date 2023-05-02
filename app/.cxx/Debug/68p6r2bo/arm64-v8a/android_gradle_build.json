@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/Debug/68p6r2bo/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/Debug/68p6r2bo/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ncnnyolox-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/Debug/68p6r2bo/arm64-v8a",
+        "ncnnyolox"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ncnnyolox",
+      "output": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cxx/Debug/68p6r2bo/obj/arm64-v8a/libncnnyolox.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

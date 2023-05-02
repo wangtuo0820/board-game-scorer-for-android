@@ -1,0 +1,66 @@
+{
+  "stringTable": {
+    "0": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --sysroot=/home/tuo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dncnnyolox_EXPORTS -isystem /home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/include/ncnn -isystem /home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "/home/tuo/Android/Sdk/ndk/25.2.9519653/build/cmake/compiler_id.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/abi-armeabi-v7a/OpenCVModules.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/glslang/glslang-targets-release.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/glslang/glslang-targets.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/tuo/Android/Sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+    "/home/tuo/Android/Sdk/ndk/25.2.9519653/build/cmake/platforms.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/abi-armeabi-v7a/OpenCVModules-release.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/glslang/glslang-config-version.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/abi-armeabi-v7a/OpenCVConfig.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnn.cmake",
+    "/home/tuo/Android/Sdk/ndk/25.2.9519653/build/cmake/android-legacy.toolchain.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/lib/cmake/glslang/glslang-config.cmake",
+    "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/OpenCVConfig-version.cmake"
+  ],
+  "cleanCommands": [
+    "/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Debug-armeabi-v7a": {
+      "buildCommand": "/home/tuo/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/armeabi-v7a\" ncnnyolox",
+      "buildType": "debug",
+      "toolchain": "1715574234",
+      "abi": "armeabi-v7a",
+      "artifactName": "ncnnyolox",
+      "files": [
+        {
+          "src": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/yoloxncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/yolox.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libncnnyolox.so"
+    }
+  },
+  "toolchains": {
+    "1715574234": {
+      "cppCompilerExecutable": "/home/tuo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

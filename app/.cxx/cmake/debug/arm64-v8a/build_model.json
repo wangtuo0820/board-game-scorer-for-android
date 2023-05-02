@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox",
+      "sdkFolder": "/home/tuo/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app",
+      "makeFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/src/main/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/.cxx",
+      "cxxFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx",
+      "ndkFolder": "/home/tuo/Android/Sdk/ndk/25.2.9519653",
+      "ndkVersion": "25.2.9519653",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/tuo/Workspace/android_ncnn/step1/ncnn-android-yolox/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}
